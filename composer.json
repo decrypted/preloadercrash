@@ -1,0 +1,9 @@
+{
+  "name": "test/test",
+  "require": {
+    "php": ">=7.4",
+    "predis/predis": ">=1.1"
+  },
+  "prefer-stable": true,
+  "minimum-stability": "dev"
+}

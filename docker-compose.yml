@@ -1,0 +1,6 @@
+php:
+    shm_size: 256M
+    entrypoint: /bin/bash -c "php crash.php && echo all good"
+    build: ./buildfiles/php/
+    volumes:
+        - .:/home
