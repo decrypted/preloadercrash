@@ -1,5 +1,7 @@
 <?php
 
+echo "PHP: ".phpversion().PHP_EOL;
+
 error_reporting(-1);
 
 echo "crash running ".PHP_EOL;

@@ -1,4 +1,5 @@
-FROM php:7.4-cli
+#FROM php:7.4-cli
+FROM phpdaily/php:7.4.2-dev-cli-stretch
 
 RUN apt-get update && apt-get install -y wget curl unzip gdb
 
