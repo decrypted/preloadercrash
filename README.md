@@ -29,3 +29,7 @@ Program terminated with signal SIGSEGV, Segmentation fault.
 #6  0x00007ff2c216a09b in __libc_start_main (main=0x56285c1800c0, argc=2, argv=0x7ffc1580bec8, init=<optimized out>, fini=<optimized out>, rtld_fini=<optimized out>, stack_end=0x7ffc1580beb8) at ../csu/libc-start.c:308
 #7  0x000056285c180c2a in _start ()
 ```
+
+# Links
+- this is likely https://bugs.php.net/bug.php?id=79128
+
