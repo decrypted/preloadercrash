@@ -1,3 +1,5 @@
+# Crash fixed in 7.4.8, mayber earlier
+
 # Run in a docker
  `make run`
 
