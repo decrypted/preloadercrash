@@ -1,7 +1,7 @@
 {
   "name": "test/test",
   "require": {
-    "php": ">=7.4",
+    "php": ">=7.4.8",
     "predis/predis": ">=1.1"
   },
   "prefer-stable": true,
